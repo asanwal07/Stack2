@@ -1,7 +1,4 @@
-// public class nextgreatertoright {
-
-// }
-
+// Q1.nextgreatertoright
 /*
  * 1. You are given a number n, representing the size of array a. 2. You are
  * given n numbers, representing elements of array a. 3. You are required to
@@ -31,7 +28,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class nextgreatertoright {
       public static void display(int[] a) {
             StringBuilder sb = new StringBuilder();
 
