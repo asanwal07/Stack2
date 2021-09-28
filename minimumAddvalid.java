@@ -1,4 +1,4 @@
-// Q.LEETCODE 921. Minimum Add to Make Parentheses Valid
+// Q.LEETCODE 921. Minimum Add to Make Parentheses Valid.
 /*
  * 1: Given a string S of '(' and ')' parentheses. 2: You need to find count of
  * minimum number of parentheses '(' or ')' when added in any positions so that
