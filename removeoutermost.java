@@ -1,6 +1,3 @@
-// public class removeoutermost {
-
-// }
 // LEETCODE Q.1021 Remove Outermost Parentheses
 /*
  * A valid parentheses string is either empty "", "(" + A + ")", or A + B, where
@@ -28,7 +25,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class removeoutermost {
       public static String removeOuterParentheses(String s) {
             Stack<Character> st = new Stack<>();
 
