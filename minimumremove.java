@@ -16,7 +16,7 @@
  * It is the empty string, contains only lowercase characters, or It can be
  * written as AB (A concatenated with B), where A and B are valid strings, or It
  * can be written as (A), where A is a valid string.
- * 
+ * adfaf
  * 
  * Example 1:
  * 
@@ -32,7 +32,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class minimumremove {
       public static String reverseParentheses(String s) {
 
             char chars[] = s.toCharArray();
